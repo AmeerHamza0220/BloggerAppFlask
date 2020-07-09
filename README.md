@@ -1,0 +1,2 @@
+# BloggerAppFlask
+just for learning
